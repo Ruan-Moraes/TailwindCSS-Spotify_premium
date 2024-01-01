@@ -19,4 +19,4 @@ Você tem duas formas de testar este projeto:
 
 Você também pode acessar uma versão online do projeto hospedada no GitHub Pages. Basta acessar o seguinte link:
 
-[Visualizar no GitHub Pages](https://ruan-moraes.github.io/TailwindCSS_Spotify-premium/)
+[Visualizar no GitHub Pages](https://ruan-moraes.github.io/TailwindCSS-Spotify_premium/)
